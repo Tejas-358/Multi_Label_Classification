@@ -21,7 +21,7 @@ Before you begin, ensure you have the following dependencies installed:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/text-classification.git
+   git clone https://github.com/Tejas-358/Multi_Label_Classification.git
 Install the required Python libraries:
 
 bash
